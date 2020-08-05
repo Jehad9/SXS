@@ -1,0 +1,7 @@
+discord
+random
+io
+aiohttp
+discord.ext
+asyncio
+datetime
